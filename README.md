@@ -80,36 +80,10 @@ sidra = {
 
 </div>
 
----
 
-## 📈 GitHub Stats
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=im-khansidra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-khansidra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=im-khansidra&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=F97316&currStreakLabel=A78BFA" />
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/im-khansidra/im-khansidra/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
-> **Note:** To enable the snake animation, add [this GitHub Action](https://github.com/Platane/snk) to your repo.
-
----
 
 ## 🌟 What I Do
 
