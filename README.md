@@ -10,7 +10,7 @@
 
 <!-- Profile Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sidra%20Khan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/im-khansidra)
-[![Email](https://img.shields.io/badge/Email-pakskhan2486%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamthekhansidra@gmail.com)
+[![Email](https://img.shields.io/badge/Email-iamthekhansidra@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamthekhansidra@gmail.com)
 [![Location](https://img.shields.io/badge/Pakistan-🇵🇰-00A550?style=for-the-badge)](https://github.com/sidrakhan)
 [![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Opportunities-6EE7B7?style=for-the-badge&logo=checkmarx&logoColor=black)](mailto:pakskhan2486@gmail.com)
 
