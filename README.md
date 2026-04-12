@@ -97,6 +97,9 @@ sidra = {
 
 I believe that **data tells a story** — my job is to make sure that story is told clearly. From building Excel dashboards to writing SQL queries to designing Power BI reports, I focus on making data understandable for everyone, not just analysts.
 
+## 🌟 Development as a hobby
+I love to code, but as a hobby. I use HTML, CSS, JS, C++, and Python for leisure time to boost my thoughts and technical creativity. These are not just programming languages; these are a way to visualise my thoughts.
+
 ---
 
 ## 🤝 Let's Connect
